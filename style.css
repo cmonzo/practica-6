@@ -1,0 +1,43 @@
+body{
+    background-color: burlywood;
+}
+header{
+    text-align: right;
+    color: blue;
+    font-size: larger;
+letter-spacing: 75px;
+}
+img.izquierda{
+    float: left;
+}
+img.derecha{
+    float: right;
+}
+section.centrado{
+    text-align: center;
+}
+p.titulo{
+    background-color: cadetblue;
+    font-size: 50px;
+    color: white;
+}
+span.negrita{
+    font-weight: bold;
+    font-style: italic;
+}
+p.fuera{
+    clear: both;
+    background-color: cadetblue;
+    font-size: 50px;
+    color: white;
+}
+footer{
+    background-color: white;
+    text-align: center;
+}
+span.azul{
+    color: blue;
+}
+p.texto{
+    font-size: 30px;
+}
